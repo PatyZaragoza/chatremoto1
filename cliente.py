@@ -1,3 +1,5 @@
+# Autor: Patricia Zaragoza Palma
+
 import socket
 import threading  # Asegúrate de que esta línea esté presente
 import tkinter as tk
